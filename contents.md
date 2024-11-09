@@ -1,5 +1,8 @@
-# contents
+# Guilty Pleasures (tell no one)
 
-* titles.md: The movie titles in the WebFlyx collection
-* classics.csv: A comma-separated list of classic movies
-* quotes: A directory of files containing memorable quotes from movies
+* The Notebook
+* The Love Guru
+* Birdemic: Shock and Terror
+* Troll 2
+* Manos: The Hands of Fate
+* Sharknado
